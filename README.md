@@ -42,4 +42,4 @@ Cattoni, J. Fiorina, F. Bader, L. De Nardis, Cognitive radio and Networking for
 Heterogeneous Wireless Networks, Springer, ISBN: 978-3-319-01717-4, 2015.
 
 # Contact
-adnan.shahid@ugent.be
+mariagabriella.dibenedetto@uniroma1.it
