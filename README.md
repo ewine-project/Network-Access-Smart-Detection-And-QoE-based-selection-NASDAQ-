@@ -28,3 +28,18 @@ bandwidth.
 performance to the one with lowest performance, assigning a score in the 0 – 100
 range, obtained as a linear combination of the measured KPIs.
 
+## Source code
+The source code of the application can be downloaded at https://www.dropbox.com/s/r2m9fx4ijhiie8k/BestNetworkSelector.zip?dl=0
+Please cite ouor below-listed papers if you used the source code and the related information. 
+
+[1] S. Boldrini, S. Benco, S. Annese, A. Ghettino and M.-G. Di Benedetto, “Bluetooth
+automatic network recognition – the AIR-AWARE approach”, International Journal of
+Autonomous and Adaptive Communications Systems, Vol. 7, n. 4, pp. 378-392, 2014.
+
+[2] S. Boldrini, M.-G. Di Benedetto, A. Tosti and J. Fiorina, “Automatic best wireless
+network selection based on Key Performance Indicators”, In: M.-G. Di Benedetto, A.F.
+Cattoni, J. Fiorina, F. Bader, L. De Nardis, Cognitive radio and Networking for
+Heterogeneous Wireless Networks, Springer, ISBN: 978-3-319-01717-4, 2015.
+
+# Contact
+adnan.shahid@ugent.be
